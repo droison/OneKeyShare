@@ -96,7 +96,6 @@ public final class R {
         public static int share=0x7f030030;
         public static int share_canceled=0x7f030033;
         public static int share_completed=0x7f030032;
-        public static int share_content=0x7f03003a;
         public static int share_failed=0x7f030036;
         public static int share_to=0x7f03002f;
         public static int share_to_qzone=0x7f030027;
